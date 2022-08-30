@@ -19,7 +19,7 @@
 001900 DATE-WRITTEN.                                                    zbnkext1
 002000     September 2002.                                              zbnkext1
 002100 DATE-COMPILED.                                                   zbnkext1
-002200     Today.                                                       zbnkext1
+002200     Today 2022.                                                       zbnkext1
 002300 ENVIRONMENT DIVISION.                                            zbnkext1
 002400 INPUT-OUTPUT   SECTION.                                          zbnkext1
 002500   FILE-CONTROL.                                                  zbnkext1
